@@ -1,4 +1,4 @@
-# Portofolio Web — [Angga / aldi22]
+# Portofolio Web — [Angga / aldy22]
 
 Selamat datang di portofolio web pribadi saya! 🌐  
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
@@ -48,7 +48,7 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 
 ## Tentang Saya
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
+Hai, saya Angga aldy (username GitHub: `angga22`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
 * **Email:** [email\_anggare022@gmail.com](mailto:email_anggare022@gmail.com)
